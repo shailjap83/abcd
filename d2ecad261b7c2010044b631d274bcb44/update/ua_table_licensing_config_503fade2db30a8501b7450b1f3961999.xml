@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>shailja.panthri@snc</sys_created_by>
         <sys_created_on>2020-12-03 12:29:00</sys_created_on>
-        <sys_id>6d0d25a61b7c2010044b631d274bcb10</sys_id>
+        <sys_id>503fade2db30a8501b7450b1f3961999</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_abcdapplicat_abcdtable</sys_name>
         <sys_package display_value="ABCDApplication" source="x_snc_abcdapplicat">d2ecad261b7c2010044b631d274bcb44</sys_package>
         <sys_policy/>
         <sys_scope display_value="ABCDApplication">d2ecad261b7c2010044b631d274bcb44</sys_scope>
-        <sys_update_name>ua_table_licensing_config_6d0d25a61b7c2010044b631d274bcb10</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_503fade2db30a8501b7450b1f3961999</sys_update_name>
         <sys_updated_by>shailja.panthri@snc</sys_updated_by>
         <sys_updated_on>2020-12-03 12:29:00</sys_updated_on>
     </ua_table_licensing_config>
