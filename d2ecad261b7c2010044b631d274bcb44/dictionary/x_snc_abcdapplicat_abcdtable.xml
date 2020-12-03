@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="abcdtable" max_length="40" name="x_snc_abcdapplicat_abcdtable" type="collection">
+        <element label="COl 1" max_length="100" name="u_col_1" type="string"/>
+    </element>
+</database>
