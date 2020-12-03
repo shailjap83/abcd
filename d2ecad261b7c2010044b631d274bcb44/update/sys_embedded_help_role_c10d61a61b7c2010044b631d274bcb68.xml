@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_abcdapplicat.abcdtable_user" name="x_snc_abcdapplicat.abcdtable_user">010d61a61b7c2010044b631d274bcb66</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>shailja.panthri@snc</sys_created_by>
+        <sys_created_on>2020-12-03 12:28:58</sys_created_on>
+        <sys_id>c10d61a61b7c2010044b631d274bcb68</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>010d61a61b7c2010044b631d274bcb66</sys_name>
+        <sys_package display_value="ABCDApplication" source="x_snc_abcdapplicat">d2ecad261b7c2010044b631d274bcb44</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ABCDApplication">d2ecad261b7c2010044b631d274bcb44</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c10d61a61b7c2010044b631d274bcb68</sys_update_name>
+        <sys_updated_by>shailja.panthri@snc</sys_updated_by>
+        <sys_updated_on>2020-12-03 12:28:58</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
